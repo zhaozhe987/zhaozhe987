@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhaozhe987
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Impervious Surface
+- 🌱 I’m currently learning Impervious Surface
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...869195879@qq.com
 
 <!---
